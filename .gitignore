@@ -1,0 +1,5 @@
+# venv
+/gap_venv
+
+# secret shit
+.env
